@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fifth-year Ph.D. student at the State Key Lab of CAD&CG, Zhejiang University, advised by <a href="https://scholar.google.com/citations?user=vzxDyJoAAAAJ"> Prof. Deng Cai </a> and <a href="https://scholar.google.com/citations?user=QLLFowsAAAAJ"> Prof. Xiaofei He </a>. I closely collaborated with <a href="https://scholar.google.com.hk/citations?user=kWADCMUAAAAJ"> Dr. Tong He </a>, <a href="https://scholar.google.com/citations?user=gFtI-8QAAAAJ"> Prof. Yu Qiao </a>, and <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ"> Prof. Wanli Ouyang </a> during my internship at Shanghai AI Laboratory.
+I am a fifth-year Ph.D. student at the State Key Lab of CAD&CG, Zhejiang University, advised by <a href="https://scholar.google.com/citations?user=vzxDyJoAAAAJ"> Prof. Deng Cai </a> and <a href="https://scholar.google.com/citations?user=QLLFowsAAAAJ"> Prof. Xiaofei He </a>. During my internship at Shanghai AI Laboratory, I closely collaborated with <a href="https://scholar.google.com.hk/citations?user=kWADCMUAAAAJ"> Dr. Tong He </a>, <a href="https://scholar.google.com/citations?user=gFtI-8QAAAAJ"> Prof. Yu Qiao </a>, and <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ"> Prof. Wanli Ouyang </a>.
 
 My research interest includes neural machine translation and computer vision.
 
