@@ -49,16 +49,29 @@ My research interests include 3D vision, robotics, and AIGC. I have conducted re
 </div>
 
 ## Robotics
-SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
 
-Haoyi Zhu, **Honghui Yang**, Yating Wang, Jiange Yang, Limin Wang, Tong He
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2024</div>
+      <img src='images/spa.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-Arxiv, 2024 (Under Review)
+  **SPA: 3D Spatial-Awareness Enables Effective Embodied Representation**
+
+  Haoyi Zhu, **Honghui Yang**, Yating Wang, Jiange Yang, Limin Wang, Tong He<sup>†</sup>
+
+  Arxiv, 2024 (Under Review)
+
+  </div>
+</div>
 
 ## 3D Foundation Model
 UniPAD: A Universal Pre-training Paradigm for Autonomous Driving
 
-**Honghui Yang**, Sha Zhang, Di Huang, Xiaoyang Wu, Haoyi Zhu, Tong He, Shixiang Tang, Hengshuang Zhao, Qibo Qiu, Binbin Lin, Xiaofei He, Wanli Ouyang
+**Honghui Yang**, Sha Zhang, Di Huang, Xiaoyang Wu, Haoyi Zhu, Tong He<sup>†</sup>, Shixiang Tang, Hengshuang Zhao, Qibo Qiu, Binbin Lin<sup>†</sup>, Xiaofei He, Wanli Ouyang
 
 CVPR, 2024
 
