@@ -33,8 +33,8 @@ My research interests include 3D vision, robotics, and AIGC. I have conducted re
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CVPR 2016</div>
-      <img src='images/depth_any_video.png' alt="sym" width="50%">
+      <div class="badge">Arxiv 2024</div>
+      <img src='images/depth_any_video.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
