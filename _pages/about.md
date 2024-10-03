@@ -68,6 +68,24 @@ My research interests include 3D vision, robotics, and AIGC. I have conducted re
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2024</div>
+      <img src='images/emvp.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **EMVP: Embracing Visual Foundation Model for Visual Place Recognition with Centroid-Free Probing**
+
+  Qibo Qiu, Shun Zhang, Haiming Gao, **Honghui Yang**, Haochao Ying, Wenxiao Wang, Xiaofei He<sup>†</sup>
+
+  NeurIPS, 2024
+
+  </div>
+</div>
+
 ## Representation Learning
 
 <div class='paper-box'>
