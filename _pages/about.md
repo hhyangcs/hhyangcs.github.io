@@ -110,7 +110,7 @@ My research interests include 3D vision, robotics, and AIGC. I have conducted re
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">CVPR 2024</div>
+      <div class="badge">ICCV 2023</div>
       <img src='images/ponder.png' alt="sym" width="100%">
     </div>
   </div>
@@ -124,6 +124,84 @@ My research interests include 3D vision, robotics, and AIGC. I have conducted re
 
   </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2023</div>
+      <img src='images/gd_mae.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds**
+
+  **Honghui Yang**, Tong He<sup>†</sup>, Jiaheng Liu, Hua Chen, Boxi Wu, Binbin Lin<sup>†</sup>, Xiaofei He, Wanli Ouyang
+
+  CVPR, 2023
+
+  </div>
+</div>
+
+## Multi-modal Learning
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2023</div>
+      <img src='images/pvt_ssd.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer**
+
+  **Honghui Yang**, Wenxiao Wang, Minghao Chen, Binbin Lin<sup>†</sup>, Tong He<sup>†</sup>, Hua Chen, Xiaofei He, Wanli Ouyang
+
+  CVPR, 2023
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ECCV 2022</div>
+      <img src='images/graph_rcnn.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **Graph R-CNN: Towards Accurate 3D Object Detection with Semantic-Decorated Local Graph**
+
+  **Honghui Yang**, Zili Liu, Xiaopei Wu, Wenxiao Wang<sup>†</sup>, Wei Qian, Xiaofei He, Deng Cai
+
+  ECCV, 2022 (Oral)
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2022</div>
+      <img src='images/sfd.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion**
+
+  Xiaopei Wu, Liang Peng, **Honghui Yang**, Liang Xie, Chenxi Huang, Chengqi Deng, Haifeng Liu, Deng Cai<sup>†</sup>
+
+  CVPR, 2022 (Oral)
+
+  </div>
+</div>
+
+
 
 # 💻 Internships
 - *2022.06 - 2024.10*, Shanghai AI Laboratory, China.
