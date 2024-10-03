@@ -69,11 +69,61 @@ My research interests include 3D vision, robotics, and AIGC. I have conducted re
 </div>
 
 ## 3D Foundation Model
-UniPAD: A Universal Pre-training Paradigm for Autonomous Driving
 
-**Honghui Yang**, Sha Zhang, Di Huang, Xiaoyang Wu, Haoyi Zhu, Tong He<sup>†</sup>, Shixiang Tang, Hengshuang Zhao, Qibo Qiu, Binbin Lin<sup>†</sup>, Xiaofei He, Wanli Ouyang
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2024</div>
+      <img src='images/unipad.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-CVPR, 2024
+  **UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**
+
+  **Honghui Yang**, Sha Zhang, Di Huang, Xiaoyang Wu, Haoyi Zhu, Tong He<sup>†</sup>, Shixiang Tang, Hengshuang Zhao, Qibo Qiu, Binbin Lin<sup>†</sup>, Xiaofei He, Wanli Ouyang
+
+  CVPR, 2024
+
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2024</div>
+      <img src='images/unipad.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**
+
+  **Honghui Yang**, Sha Zhang, Di Huang, Xiaoyang Wu, Haoyi Zhu, Tong He<sup>†</sup>, Shixiang Tang, Hengshuang Zhao, Qibo Qiu, Binbin Lin<sup>†</sup>, Xiaofei He, Wanli Ouyang
+
+  CVPR, 2024
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2023</div>
+      <img src='images/ponderv2.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  **PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**
+
+  Haoyi Zhu<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, **Honghui Yang**<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Xiaoyang Wu<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Di Huang<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Sha Zhang, Xianglong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao, Tong He, Wanli Ouyang
+
+  Arxiv, 2023 (TPAMI Under Review)
+
+  </div>
+</div>
 
 # 💻 Internships
 - *2022.06 - 2024.10*, Shanghai AI Laboratory, China.
