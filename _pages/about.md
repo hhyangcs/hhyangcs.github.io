@@ -34,14 +34,14 @@ My research interests include 3D vision, robotics, and AIGC. I have conducted re
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2016</div>
-      <img src='images/depth_any_video.png' alt="sym" width="100%">
+      <img src='images/depth_any_video.png' alt="sym" width="50%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
   **Depth Any Video with Scalable Synthetic Data**
   
-  **Honghui Yang**, Di Huang, Wei Yin, Chunhua Shen, Haifeng Liu, Xiaofei He, Binbin Lin, Wanli Ouyang, Tong He
+  **Honghui Yang**<sup>*</sup>, Di Huang<sup>*</sup>, Wei Yin, Chunhua Shen, Haifeng Liu, Xiaofei He, Binbin Lin<sup>†</sup>, Wanli Ouyang, Tong He<sup>†</sup>
   
   Arxiv, 2024 (Under Review)
   
