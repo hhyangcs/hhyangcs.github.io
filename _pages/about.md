@@ -68,7 +68,7 @@ My research interests include 3D vision, robotics, and AIGC. I have conducted re
   </div>
 </div>
 
-## 3D Foundation Model
+## Representation Learning
 
 <div class='paper-box'>
   <div class='paper-box-image'>
