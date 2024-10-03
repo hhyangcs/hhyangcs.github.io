@@ -28,19 +28,21 @@ My research interests include 3D vision, robotics, and AIGC. I have conducted re
 
 # 📝 Publications 
 
+## Video Generation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
+Depth Any Video with Scalable Synthetic Data
 **Honghui Yang**, Di Huang, Wei Yin, Chunhua Shen, Haifeng Liu, Xiaofei He, Binbin Lin, Wanli Ouyang, Tong He
+Arxiv, 2024 (Under Review)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+## Robotics
+SPA: 3D Spatial-Awareness Enables Effective Embodied Representation
+Haoyi Zhu, **Honghui Yang**, Yating Wang, Jiange Yang, Limin Wang, Tong He
+Arxiv, 2024 (Under Review)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## 3D Foundation Model
+
 
 # 💻 Internships
 - *2022.06 - 2024.10*, Shanghai AI Laboratory, China.
