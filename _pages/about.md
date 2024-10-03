@@ -30,7 +30,7 @@ My research interests include 3D vision, robotics, and AIGC. I have conducted re
 
 ## Video Generation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/depth_any_video.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Depth Any Video with Scalable Synthetic Data
