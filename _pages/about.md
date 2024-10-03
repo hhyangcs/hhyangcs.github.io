@@ -71,7 +71,7 @@ My research interests include 3D vision, robotics, and AIGC. I have conducted re
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Arxiv 2024</div>
+      <div class="badge">NeurIPS 2024</div>
       <img src='images/emvp.png' alt="sym" width="100%">
     </div>
   </div>
