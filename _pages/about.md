@@ -19,7 +19,7 @@ redirect_from:
 
 I am a fifth-year Ph.D. student at the State Key Lab of CAD&CG, Zhejiang University, advised by <a href="https://scholar.google.com/citations?user=vzxDyJoAAAAJ">Prof. Deng Cai</a> and <a href="https://scholar.google.com/citations?user=QLLFowsAAAAJ">Prof. Xiaofei He</a>. During my internship at Shanghai AI Laboratory, I closely collaborated with <a href="https://scholar.google.com.hk/citations?user=kWADCMUAAAAJ">Dr. Tong He</a>, <a href="https://scholar.google.com/citations?user=gFtI-8QAAAAJ">Prof. Yu Qiao</a>, and <a href="https://scholar.google.com/citations?user=pw_0Z_UAAAAJ">Prof. Wanli Ouyang</a>.
 
-My research interests include 3D vision, robotics, and AIGC. I have conducted research on 3D scene understanding, multi-modal learning, representation learning, and video depth estimation.
+My research interests include 3D vision, robotics, and AIGC. Currently, I focus on advancing spatial intelligence through the development of a 3D foundation model. To achieve this goal, I explore four key directions: (1) Data, building **depth foundation models** to cheaply generate 3D data; (2) Backbone, handling diverse input through **multi-modal learning**; (3) Pre-training, scaling up backbones with **representation learning**; and (4) Downstream, validating efficacy by **robot manipulation** and **3D scene understanding**.
 
 
 <!-- # 🔥 News
