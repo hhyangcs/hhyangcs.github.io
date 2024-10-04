@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Honghui Yang"
   avatar           : "images/photo.png"
-  bio              : "[Curriculum Vitae]"
+  bio              :
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
