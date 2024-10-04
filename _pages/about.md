@@ -226,8 +226,12 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 - *2019.10 - 2022.06*, Fabu Inc., China.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Transfar Scholarship, *2023*
+- Lu Zengyong Scholarship, *2022* 
+- Outstanding Postgraduate Student Award, *2021* - *2023* 
+- Zhejiang Provincial Collegiate Programming Contest, Gold Medal, *2019*
+- The ICPC Asia-East Continent Final, Bronze Medal, *2018*
+- National Scholarship, *2017* 
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
