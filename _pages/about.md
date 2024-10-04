@@ -222,8 +222,8 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
 
 # 💻 Internships
-- *2022.06 - 2024.10*, Shanghai AI Laboratory, China.
-- *2019.10 - 2022.06*, Fabu Inc., China.
+- *2022.06 - 2024.10*, <a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a>, China.
+- *2019.10 - 2022.06*, <a href="https://www.fabu.ai/">Fabu Inc.</a>, China.
 
 # 🎖 Honors and Awards
 - Transfar Scholarship, *2023*
