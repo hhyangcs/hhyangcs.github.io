@@ -154,7 +154,7 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
   **GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds**
 
-  **Honghui Yang**, Tong He<sup>†</sup>, Jiaheng Liu, Hua Chen, Boxi Wu, Binbin Lin<sup>†</sup>, Xiaofei He, Wanli Ouyang
+  **Honghui Yang**<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Tong He<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Jiaheng Liu, Hua Chen, Boxi Wu, Binbin Lin<sup>†</sup>, Xiaofei He, Wanli Ouyang
 
   CVPR, 2023
 
