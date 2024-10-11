@@ -216,6 +216,8 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
   CVPR, 2022 (Oral)
 
+  [![](https://img.shields.io/github/stars/LittlePey/SFD?style=social&label=Code+Stars)](https://github.com/LittlePey/SFD) / [[Paper]](https://arxiv.org/pdf/2203.09780) 
+
   </div>
 </div>
 
