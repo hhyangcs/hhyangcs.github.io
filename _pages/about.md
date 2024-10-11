@@ -88,7 +88,7 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
   Qibo Qiu, Shun Zhang, Haiming Gao, **Honghui Yang**, Haochao Ying, Wenxiao Wang, Xiaofei He<sup>†</sup>
 
   NeurIPS, 2024
-  
+
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/placeholder)
 
   </div>
@@ -217,7 +217,7 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
   **Honghui Yang**, Zili Liu, Xiaopei Wu, Wenxiao Wang<sup>†</sup>, Wei Qian, Xiaofei He, Deng Cai
 
-  ECCV, 2022 (Oral)
+  ECCV, 2022 (<span style="color: red;">Oral</span>)
 
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2208.03624)
   [![](https://img.shields.io/github/stars/Nightmare-n/GraphRCNN?style=social&label=Code+Stars)](https://github.com/Nightmare-n/GraphRCNN)
@@ -239,7 +239,7 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
   Xiaopei Wu, Liang Peng, **Honghui Yang**, Liang Xie, Chenxi Huang, Chengqi Deng, Haifeng Liu, Deng Cai<sup>†</sup>
 
-  CVPR, 2022 (Oral)
+  CVPR, 2022 (<span style="color: red;">Oral</span>)
   
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2203.09780)
   [![](https://img.shields.io/github/stars/LittlePey/SFD?style=social&label=Code+Stars)](https://github.com/LittlePey/SFD)
