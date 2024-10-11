@@ -44,7 +44,10 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
   **Honghui Yang**<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Di Huang<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Wei Yin, Chunhua Shen, Haifeng Liu, Xiaofei He, Binbin Lin<sup>†</sup>, Wanli Ouyang, Tong He<sup>†</sup>
   
   Arxiv, 2024 (Under Review)
-  
+
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/placeholder)
+  [![](https://img.shields.io/github/stars/Nightmare-n/DepthAnyVideo?style=social&label=Code+Stars)](https://github.com/Nightmare-n/DepthAnyVideo)
+
   </div>
 </div>
 
@@ -64,6 +67,9 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
   Haoyi Zhu, **Honghui Yang**, Yating Wang, Jiange Yang, Limin Wang, Tong He<sup>†</sup>
 
   Arxiv, 2024 (Under Review)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2410.08208)
+  [![](https://img.shields.io/github/stars/HaoyiZhu/SPA?style=social&label=Code+Stars)](https://github.com/HaoyiZhu/SPA)
 
   </div>
 </div>
@@ -103,6 +109,9 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
   CVPR, 2024
 
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2310.08370)
+  [![](https://img.shields.io/github/stars/Nightmare-n/UniPAD?style=social&label=Code+Stars)](https://github.com/Nightmare-n/UniPAD)
+
   </div>
 </div>
 
@@ -120,6 +129,9 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
   Haoyi Zhu<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, **Honghui Yang**<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Xiaoyang Wu<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Di Huang<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Sha Zhang, Xianglong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao, Tong He<sup>†</sup>, Wanli Ouyang
 
   Arxiv, 2023 (TPAMI Under Review)
+
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2310.08586)
+  [![](https://img.shields.io/github/stars/OpenGVLab/PonderV2?style=social&label=Code+Stars)](https://github.com/OpenGVLab/PonderV2)
 
   </div>
 </div>
@@ -140,6 +152,8 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
   ICCV, 2023
 
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2301.00157)
+
   </div>
 </div>
 
@@ -157,6 +171,9 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
   **Honghui Yang**<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Tong He<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Jiaheng Liu, Hua Chen, Boxi Wu, Binbin Lin<sup>†</sup>, Xiaofei He, Wanli Ouyang
 
   CVPR, 2023
+
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2212.03010)
+  [![](https://img.shields.io/github/stars/Nightmare-n/GD-MAE?style=social&label=Code+Stars)](https://github.com/Nightmare-n/GD-MAE)
 
   </div>
 </div>
@@ -178,6 +195,9 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
   CVPR, 2023
 
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2305.06621)
+  [![](https://img.shields.io/github/stars/Nightmare-n/PVT-SSD?style=social&label=Code+Stars)](https://github.com/Nightmare-n/PVT-SSD)
+
   </div>
 </div>
 
@@ -197,6 +217,9 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
   ECCV, 2022 (Oral)
 
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2208.03624)
+  [![](https://img.shields.io/github/stars/Nightmare-n/GraphRCNN?style=social&label=Code+Stars)](https://github.com/Nightmare-n/GraphRCNN)
+
   </div>
 </div>
 
@@ -214,7 +237,10 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
   Xiaopei Wu, Liang Peng, **Honghui Yang**, Liang Xie, Chenxi Huang, Chengqi Deng, Haifeng Liu, Deng Cai<sup>†</sup>
 
-  CVPR, 2022 (Oral) [![](https://img.shields.io/github/stars/LittlePey/SFD?style=social&label=Code+Stars)](https://github.com/LittlePey/SFD)
+  CVPR, 2022 (Oral)
+  
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2203.09780)
+  [![](https://img.shields.io/github/stars/LittlePey/SFD?style=social&label=Code+Stars)](https://github.com/LittlePey/SFD)
 
   </div>
 </div>
