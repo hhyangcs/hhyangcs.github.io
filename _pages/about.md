@@ -88,6 +88,8 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
   Qibo Qiu, Shun Zhang, Haiming Gao, **Honghui Yang**, Haochao Ying, Wenxiao Wang, Xiaofei He<sup>†</sup>
 
   NeurIPS, 2024
+  
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/placeholder)
 
   </div>
 </div>
