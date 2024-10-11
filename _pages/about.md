@@ -214,7 +214,7 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
   Xiaopei Wu, Liang Peng, **Honghui Yang**, Liang Xie, Chenxi Huang, Chengqi Deng, Haifeng Liu, Deng Cai<sup>†</sup>
 
-  CVPR, 2022 (Oral) | [![](https://img.shields.io/github/stars/LittlePey/SFD?style=social&label=Code+Stars)](https://github.com/LittlePey/SFD) | [[Paper]](https://arxiv.org/pdf/2203.09780) 
+  CVPR, 2022 (Oral) &#124 [![](https://img.shields.io/github/stars/LittlePey/SFD?style=social&label=Code+Stars)](https://github.com/LittlePey/SFD) &#124 [[Paper]](https://arxiv.org/pdf/2203.09780) 
 
   </div>
 </div>
