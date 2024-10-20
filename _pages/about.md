@@ -45,7 +45,7 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
   
   Arxiv, 2024 (Under Review)
 
-  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/placeholder)
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2410.10815)
   [![](https://img.shields.io/github/stars/Nightmare-n/DepthAnyVideo?style=social&label=Code+Stars)](https://github.com/Nightmare-n/DepthAnyVideo)
 
   </div>
