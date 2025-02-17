@@ -41,7 +41,7 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
   **Depth Any Video with Scalable Synthetic Data**
   
-  **Honghui Yang**<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Di Huang<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Wei Yin, Chunhua Shen, Haifeng Liu, Xiaofei He, Binbin Lin<sup>†</sup>, Wanli Ouyang, Tong He<sup>†</sup>
+  **Honghui Yang**<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Di Huang<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Wei Yin, Chunhua Shen, Haifeng Liu<sup>†</sup>, Xiaofei He, Binbin Lin, Wanli Ouyang, Tong He<sup>†</sup>
   
   ICLR, 2025
 
