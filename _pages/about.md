@@ -250,7 +250,9 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
 
 # 💻 Internships
+<!--
 - *2024.10 - Present*, <a href="https://www.xiaohongshu.com/">RedNote</a>, China.
+-->
 - *2022.06 - 2024.10*, <a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a>, China.
 - *2019.10 - 2022.06*, <a href="https://www.fabu.ai/">Fabu Inc.</a>, China.
 
