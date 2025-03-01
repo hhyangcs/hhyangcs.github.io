@@ -250,13 +250,14 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
 
 # 💻 Internships
+- *2024.10 - Present*, <a href="https://www.xiaohongshu.com/">RedNote</a>, China.
 - *2022.06 - 2024.10*, <a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a>, China.
 - *2019.10 - 2022.06*, <a href="https://www.fabu.ai/">Fabu Inc.</a>, China.
 
 # 🎖 Honors and Awards
 - Transfar Scholarship, *2023*
 - Lu Zengyong Scholarship, *2022* 
-- Outstanding Postgraduate Student Award, *2021* - *2023* 
+- Outstanding Postgraduate Student Award, *2021* - *2025* 
 - Zhejiang Provincial Collegiate Programming Contest, Gold Medal, *2019*
 - The ICPC Asia-East Continent Final, Bronze Medal, *2018*
 - National Scholarship, *2017* 
