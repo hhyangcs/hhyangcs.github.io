@@ -120,7 +120,7 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">TPAMI 2024</div>
+      <div class="badge">TPAMI 2025</div>
       <img src='images/ponderv2.png' alt="sym" width="100%">
     </div>
   </div>
@@ -130,7 +130,7 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 
   Haoyi Zhu<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, **Honghui Yang**<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Xiaoyang Wu<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Di Huang<sup style="font-size: 1em; vertical-align: -0.4em;">*</sup>, Sha Zhang, Xianglong He, Hengshuang Zhao, Chunhua Shen, Yu Qiao, Tong He<sup>†</sup>, Wanli Ouyang
 
-  TPAMI, 2024
+  TPAMI, 2025
 
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2310.08586)
   [![](https://img.shields.io/github/stars/OpenGVLab/PonderV2?style=social&label=Code+Stars)](https://github.com/OpenGVLab/PonderV2)
