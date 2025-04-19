@@ -257,7 +257,8 @@ My research interests include 3D vision, robotics, and AIGC. Currently, I focus 
 # 🎖 Honors and Awards
 - Transfar Scholarship, *2023*
 - Lu Zengyong Scholarship, *2022* 
-- Outstanding Postgraduate Student Award, *2021* - *2025* 
+- Outstanding Postgraduate Student Award, *2021* - *2025*
+- Zhejiang Provincial Outstanding Graduate, *2020*
 - Zhejiang Provincial Collegiate Programming Contest, Gold Medal, *2019*
 - The ICPC Asia-East Continent Final, Bronze Medal, *2018*
 - National Scholarship, *2017* 
